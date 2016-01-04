@@ -13,4 +13,4 @@
 - Brew
 - Elixir
 - Nvm
-- - nvm install latest node
+  - nvm install latest node
