@@ -1,5 +1,8 @@
 # macsetup
 
+## OSX
+- Make sure on Capitan
+
 ## Applications
 ### Mac App Store
 - Caffiene
@@ -8,6 +11,4 @@
 
 ### Internet
 - Brew
-
-###
 - Elixir
