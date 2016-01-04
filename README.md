@@ -12,3 +12,5 @@
 ### Internet
 - Brew
 - Elixir
+- Nvm
+- - Latest Node
