@@ -2,6 +2,7 @@
 
 ## OSX
 - Make sure on Capitan
+- Go Through System Preferences
 
 ## Applications
 ### Mac App Store
