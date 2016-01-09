@@ -11,6 +11,7 @@
 - Better Snap Tool
 
 ### Internet
+- Iterm 2
 - Brew
 - Elixir
 - Nvm
